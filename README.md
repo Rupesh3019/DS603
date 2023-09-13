@@ -70,6 +70,7 @@ Big Data presents both opportunities and challenges for organizations. Effective
 
 **References**
 
-[Insert your APA-style references here]
+Google. (n.d.). What is Big Data?&nbsp; |&nbsp; google cloud. Google. https://cloud.google.com/learn/what-is-big-data 
+
 
 
