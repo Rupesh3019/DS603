@@ -58,7 +58,7 @@ One example of Big Data is social media data. Platforms like Facebook and Twitte
 
 4. **Security:** It's essential to safeguard data against hacker attacks and illegal access.
 
-5. ****Complexity:**  Data integration and analysis may be made more difficult by the variety of data kinds and sources.
+5. **Complexity:**  Data integration and analysis may be made more difficult by the variety of data kinds and sources.
 
 6. **Cost:** Implementing and maintaining Big Data infrastructure and technologies can be expensive.
 
