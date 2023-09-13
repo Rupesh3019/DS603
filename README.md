@@ -72,5 +72,10 @@ Big Data presents both opportunities and challenges for organizations. Effective
 
 Google. (n.d.). What is Big Data?&nbsp; |&nbsp; google cloud. Google. https://cloud.google.com/learn/what-is-big-data 
 
+Marr, B. (2016, December 20). Big data: The 6th “V” everyone should know about. Forbes. https://www.forbes.com/sites/bernardmarr/2016/12/20/big-data-the-6th-v-everyone-should-know-about/ 
+
+Lawton, G. (2022, January 5). Top 10 big data challenges and how to address them. Data Management. https://www.techtarget.com/searchdatamanagement/tip/10-big-data-challenges-and-how-to-address-them 
+
+
 
 
