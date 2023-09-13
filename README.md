@@ -1,6 +1,6 @@
-## DS603
+## Rupesh koram dz93614
 
-# Big Data
+## Assignment 1: Big Data Topics 
 
 ## Introduction
 
